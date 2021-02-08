@@ -1,0 +1,18 @@
+
+b = 10
+
+b = b * 2
+
+if b > 15{
+    println b
+}
+
+
+
+func trip(a){
+  a = a * 3
+  return a
+}
+
+h = 10
+println trip(h)
